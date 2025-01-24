@@ -13,7 +13,11 @@ The application supports the classification of common fruits such as apples, ban
 - **Shivraj S. Kalkute** (Roll No: 40)
 
 ---
+## Project Guide
+- **Dr.T.V.Bhandare mam** 
 
+
+---
 ## Features
 - Fruit type classification (Apple, Banana, Orange, etc.)
 - Quality prediction (Fresh or Rotten) with associated probabilities
